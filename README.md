@@ -22,9 +22,10 @@ Cypress v.10 and Cucumber is used with TestingLibrary.
 
 - Installation 
 
-  clone the repo
-  Run npm i
+  1- clone the repo
+  2- go to project directory
+  3- Run 'npm i'
 
 - Run tests
 
-   npx test
+   npm test
